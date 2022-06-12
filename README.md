@@ -1,5 +1,6 @@
 # TooDeep
 Submission for the Game Dev TV 2021 Game Jam
+https://bluspur.itch.io/too-deep
 
 Credits:
 - Coding: Craig Holman
