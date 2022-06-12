@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Platform
+  - Player
+  - Collectables
+  - Bouncable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 993932383
+    locked: 0
+  - name: Foreground
+    uniqueID: 3799109837
+    locked: 0
+  - name: Foreground Polish
+    uniqueID: 3882094763
+    locked: 0
+  - name: Collectibles
+    uniqueID: 3353787013
+    locked: 0
+  - name: UI
+    uniqueID: 245645513
+    locked: 0
+  - name: Mobs
+    uniqueID: 1210465457
+    locked: 0
+  - name: Player
+    uniqueID: 2922403169
+    locked: 0
+  - name: Cursewall
+    uniqueID: 2841546671
+    locked: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Cave1Cursewall
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -5847662361447264862, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: -5243904165653506676, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: 4190783890701136212, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: -6659209162143228771, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: -5601620854621306652, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: 4997086313643117417, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: 6764959741161449029, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: 4997086313643117417, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: -5601620854621306652, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: -6659209162143228771, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: 4190783890701136212, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  - {fileID: -5243904165653506676, guid: 5c6aac8daa06b5a429d095c84b9be3aa, type: 3}
+  m_MinSpeed: 2
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
